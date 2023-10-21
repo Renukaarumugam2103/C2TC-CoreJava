@@ -6,7 +6,7 @@ public class IfElse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc = new Scanner(System.in);
+		var sc = new Scanner(System.in);
 		System.out.print("Enter the Number: ");
 		int n = sc.nextInt();
 		if(n>10) {
